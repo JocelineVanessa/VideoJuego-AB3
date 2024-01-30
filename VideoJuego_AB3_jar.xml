@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VideoJuego-AB3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VideoJuego_AB3_jar</output-path>
+    <root id="archive" name="VideoJuego-AB3.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Downloads/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="VideoJuego-AB3" />
+    </root>
+  </artifact>
+</component>
