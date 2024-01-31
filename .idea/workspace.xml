@@ -9,14 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c950a14-0bd8-476f-ab97-8b8d81479762" name="Changes" comment="Segunda version">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GameRules.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GameControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="8c950a14-0bd8-476f-ab97-8b8d81479762" name="Changes" comment="Tercera version">
+      <change beforePath="$PROJECT_DIR$/out/artifacts/VideoJuego_AB3_jar/VideoJuego-AB3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/VideoJuego_AB3_jar/VideoJuego-AB3.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +88,7 @@
       <workItem from="1705946908498" duration="78000" />
       <workItem from="1706633608862" duration="5975000" />
       <workItem from="1706640384899" duration="1350000" />
-      <workItem from="1706721537014" duration="2908000" />
+      <workItem from="1706721537014" duration="3224000" />
     </task>
     <task id="LOCAL-00001" summary="Primera version">
       <option name="closed" value="true" />
@@ -120,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706638486309</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tercera version">
+      <option name="closed" value="true" />
+      <created>1706730106972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706730106972</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primera version" />
     <MESSAGE value="Segunda version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segunda version" />
+    <MESSAGE value="Tercera version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tercera version" />
   </component>
 </project>
